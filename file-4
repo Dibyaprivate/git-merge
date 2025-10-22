@@ -1,0 +1,1 @@
+I made changes to a file in both my local and private repositories. When I tried to push my changes to the remote repository, GitHub didn’t allow it because the local and remote versions were different. To resolve this, I needed to first merge the remote changes into my local repository.
